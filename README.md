@@ -2,7 +2,7 @@ Battlefield4
 ============
 
 Commands:
-conntectToServer(serverIP,rcon_port)
+conntectToServer(serverIP,rcon_port)<br />
 login(rcon_password)
 getServerInfo()
 getAllPlayers
