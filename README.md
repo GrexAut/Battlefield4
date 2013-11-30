@@ -1,14 +1,14 @@
 Battlefield4
 ============
-
-Commands:
+<br />
+Commands:<br />
 conntectToServer(serverIP,rcon_port)<br />
-login(rcon_password)
-getServerInfo()
-getAllPlayers
-
-Required LoggedIn Commands:
-getCurrentLevel()
-movePlayer(soldiername, teamId, squadId, forceKill)
-killPlayer(sodliername)
-kickPlayer(soldiername,reason)
+login(rcon_password) <br />
+getServerInfo() <br />
+getAllPlayers() <br />
+<br />
+Required LoggedIn Commands:<br />
+getCurrentLevel()<br />
+movePlayer(soldiername, teamId, squadId, forceKill)<br />
+killPlayer(sodliername)<br />
+kickPlayer(soldiername,reason)<br />
